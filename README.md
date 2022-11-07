@@ -24,4 +24,4 @@ Face à l'absence de données annotées, le groupe de travail a adopté trois st
 
 # Citer
 
-K. Cousot, C. Lopez, P. Cuxac, V. Lemaire (2023) Défi TextMine’23 - Reconnaissance d’entités d’intérêts dans les signatures d’e-mails. Actes de l'atelier TextMine'23, p. à paraître, Conférence Extraction et Gestion des Connaissances 2023 (EGC'23), Lyon.
+K. Cousot, C. Lopez, P. Cuxac, V. Lemaire (2023) Défi TextMine’23 - Reconnaissance d’entités d’intérêts dans les signatures d’e-mails. _Actes de l'atelier TextMine'23_, p. à paraître, Conférence Extraction et Gestion des Connaissances 2023 (EGC'23), Lyon.
