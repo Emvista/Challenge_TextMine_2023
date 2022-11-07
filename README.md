@@ -21,3 +21,7 @@ Face à l'absence de données annotées, le groupe de travail a adopté trois st
 - Jeu de données authentique (JDA dans la suite) : un jeu de données composé de signatures authentiques pseudonymisées ; non disponible pour l'instant (jeu de test sur lequel seront évalués les participants au défi)
 - Jeu de données réaliste (JDR dans la suite) : un jeu de données composé de signatures construites manuellement par la société Isahit, plateforme de labellisation éthique des données pour l'IA ; ce jeu de données contient des signatures réalistes, c'est-à-dire proches des signatures authentiques observées, mais non authentiques (elles n'ont jamais été utilisées dans des échanges d'e-mails) ; disponibles ici : https://github.com/Emvista/Challenge_TextMine_2023/blob/main/JDR.json
 - Jeu de données factice (JDF dans la suite) : un jeu de donnés composé de signatures créées automatiquement à partir d'une API de génération de fausses identités ; disponible ici : https://github.com/Emvista/Challenge_TextMine_2023/blob/main/JDF.json
+
+# Citer
+
+K. Cousot, C. Lopez, P. Cuxac, V. Lemaire (2023) Défi TextMine’23 - Reconnaissance d’entités d’intérêts dans les signatures d’e-mails. Actes de l'atelier TextMine'23, p. à paraître, Conférence Extraction et Gestion des Connaissances 2023 (EGC'23), Lyon.
