@@ -9,7 +9,7 @@ Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans
 # Participer
 1/ Se signaler auprès de kevin.cousot@emvista.com et cedric.lopez@emvista.com  
 2/ Accès au github pour prendre connaissance du défi et acquérir les jeux de données  
-3/ Envoyer le fichier des résultats par e-mail à kevin.cousot@emvista.com et cedric.lopez@emvista.com (3 envois possibles au maximum) avant le 6 janvier 2023  
+3/ Envoyer le fichier des résultats par e-mail à kevin.cousot@emvista.com et cedric.lopez@emvista.com (3 envois possibles au maximum) avant le 10 janvier 2023  
 4/ Notification du résultat par les organisateurs après chaque envoi  
 5/ Publication du résultat à l’atelier TextMine (17 janvier 2023) et attribution du prix  
 
@@ -24,4 +24,4 @@ Face à l'absence de données annotées, le groupe de travail a adopté trois st
 
 # Citer
 
-K. Cousot, C. Lopez, P. Cuxac, V. Lemaire (2023) Défi TextMine’23 - Reconnaissance d’entités d’intérêts dans les signatures d’e-mails. _Actes de l'atelier TextMine'23_, p. à paraître, Conférence Extraction et Gestion des Connaissances 2023 (EGC'23), Lyon.
+K. Cousot, C. Lopez, P. Cuxac, V. Lemaire (2023) Défi TextMine’23 - Reconnaissance d’entités d’intérêts dans les signatures d’e-mails. _Actes de l'atelier TextMine'23_, p. à paraître, Conférence Extraction et Gestion des Connaissances 2023 (EGC'23), Lyon. https://github.com/Emvista/Challenge_TextMine_2023/blob/main/Challenge_TextMine_2023.pdf
