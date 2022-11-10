@@ -9,7 +9,7 @@ Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans
 # Participer
 1/ Se signaler auprès de textmine@emvista.com afin d'être notifié des éventuelles mises à jour et autres informations  
 2/ Accès au github pour prendre connaissance du défi et acquérir les jeux de données  
-3/ Envoyer le fichier des résultats par e-mail à kevin.cousot@emvista.com et cedric.lopez@emvista.com (3 envois possibles au maximum) avant le 10 janvier 2023  
+3/ Envoyer le fichier des résultats par e-mail à textmine@emvista.com (3 envois possibles au maximum) avant le 10 janvier 2023  
 4/ Notification du résultat par les organisateurs après chaque envoi  
 5/ Publication du résultat à l’atelier TextMine (17 janvier 2023) et attribution du prix  
 
