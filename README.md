@@ -7,7 +7,7 @@ Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans
 
 # Mise à jour
 
-**29 Décembre 2022**
+**30 Décembre 2022**
 
 * Correction de formes incorrectes (terminent par \n) dans le JDF
 
