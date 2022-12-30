@@ -568,10 +568,10 @@
         "end": 92
       },
       {
-        "form": "Jean-Monnet\n",
+        "form": "Jean-Monnet",
         "label": "Location",
         "begin": 93,
-        "end": 105
+        "end": 104
       },
       {
         "form": "95190",
@@ -1396,10 +1396,10 @@
         "end": 100
       },
       {
-        "form": "Goya\n",
+        "form": "Goya",
         "label": "Location",
         "begin": 101,
-        "end": 106
+        "end": 105
       },
       {
         "form": "94170",
@@ -5848,10 +5848,10 @@
         "end": 103
       },
       {
-        "form": "Ange\n",
+        "form": "Ange",
         "label": "Location",
         "begin": 104,
-        "end": 109
+        "end": 108
       },
       {
         "form": "76600",
@@ -5938,10 +5938,10 @@
         "end": 82
       },
       {
-        "form": "Marot\n",
+        "form": "Marot",
         "label": "Location",
         "begin": 83,
-        "end": 89
+        "end": 88
       },
       {
         "form": "24000",
@@ -6544,10 +6544,10 @@
         "end": 43
       },
       {
-        "form": "Hulotais\n",
+        "form": "Hulotais",
         "label": "Location",
         "begin": 44,
-        "end": 53
+        "end": 52
       },
       {
         "form": "83700",
@@ -10318,10 +10318,10 @@
         "end": 53
       },
       {
-        "form": "Voltaire\n",
+        "form": "Voltaire",
         "label": "Location",
         "begin": 54,
-        "end": 63
+        "end": 62
       },
       {
         "form": "92240",
@@ -11326,10 +11326,10 @@
         "end": 78
       },
       {
-        "form": "Portalis\n",
+        "form": "Portalis",
         "label": "Location",
         "begin": 79,
-        "end": 88
+        "end": 87
       },
       {
         "form": "93290",
@@ -11494,10 +11494,10 @@
         "end": 112
       },
       {
-        "form": "Lacroix\n",
+        "form": "Lacroix",
         "label": "Location",
         "begin": 113,
-        "end": 121
+        "end": 120
       },
       {
         "form": "95600",
@@ -12232,10 +12232,10 @@
         "end": 79
       },
       {
-        "form": "Carnot\n",
+        "form": "Carnot",
         "label": "Location",
         "begin": 80,
-        "end": 87
+        "end": 86
       },
       {
         "form": "89000",
@@ -12634,10 +12634,10 @@
         "end": 98
       },
       {
-        "form": "Lyon\n",
+        "form": "Lyon",
         "label": "Location",
         "begin": 99,
-        "end": 104
+        "end": 103
       },
       {
         "form": "13800",
@@ -13006,10 +13006,10 @@
         "end": 122
       },
       {
-        "form": "Madeleine\n",
+        "form": "Madeleine",
         "label": "Location",
         "begin": 123,
-        "end": 133
+        "end": 132
       },
       {
         "form": "75008",
@@ -14602,10 +14602,10 @@
         "end": 97
       },
       {
-        "form": "Coubertin\n",
+        "form": "Coubertin",
         "label": "Location",
         "begin": 98,
-        "end": 108
+        "end": 107
       },
       {
         "form": "31300",
@@ -15148,10 +15148,10 @@
         "end": 91
       },
       {
-        "form": "Ange\n",
+        "form": "Ange",
         "label": "Location",
         "begin": 92,
-        "end": 97
+        "end": 96
       },
       {
         "form": "76620",
@@ -16144,10 +16144,10 @@
         "end": 49
       },
       {
-        "form": "Ange\n",
+        "form": "Ange",
         "label": "Location",
         "begin": 50,
-        "end": 55
+        "end": 54
       },
       {
         "form": "94270",
@@ -18076,10 +18076,10 @@
         "end": 99
       },
       {
-        "form": "Coubertin\n",
+        "form": "Coubertin",
         "label": "Location",
         "begin": 100,
-        "end": 110
+        "end": 109
       },
       {
         "form": "31200",
@@ -18454,10 +18454,10 @@
         "end": 82
       },
       {
-        "form": "Napoléon\n",
+        "form": "Napoléon",
         "label": "Location",
         "begin": 83,
-        "end": 92
+        "end": 91
       },
       {
         "form": "59130",
@@ -20338,10 +20338,10 @@
         "end": 110
       },
       {
-        "form": "Hugo\n",
+        "form": "Hugo",
         "label": "Location",
         "begin": 111,
-        "end": 116
+        "end": 115
       },
       {
         "form": "29900",
@@ -21388,10 +21388,10 @@
         "end": 36
       },
       {
-        "form": "Marechal-Joffre\n",
+        "form": "Marechal-Joffre",
         "label": "Location",
         "begin": 37,
-        "end": 53
+        "end": 52
       },
       {
         "form": "69150",
@@ -23056,10 +23056,10 @@
         "end": 37
       },
       {
-        "form": "Bateliers\n",
+        "form": "Bateliers",
         "label": "Location",
         "begin": 38,
-        "end": 48
+        "end": 47
       },
       {
         "form": "73100",
@@ -25210,10 +25210,10 @@
         "end": 97
       },
       {
-        "form": "Geneve\n",
+        "form": "Geneve",
         "label": "Location",
         "begin": 98,
-        "end": 105
+        "end": 104
       },
       {
         "form": "80080",
@@ -26938,10 +26938,10 @@
         "end": 77
       },
       {
-        "form": "Renan\n",
+        "form": "Renan",
         "label": "Location",
         "begin": 78,
-        "end": 84
+        "end": 83
       },
       {
         "form": "49300",
@@ -27772,10 +27772,10 @@
         "end": 85
       },
       {
-        "form": "Elisabeth\n",
+        "form": "Elisabeth",
         "label": "Location",
         "begin": 86,
-        "end": 96
+        "end": 95
       },
       {
         "form": "77000",
@@ -28228,10 +28228,10 @@
         "end": 43
       },
       {
-        "form": "Boétie\n",
+        "form": "Boétie",
         "label": "Location",
         "begin": 44,
-        "end": 51
+        "end": 50
       },
       {
         "form": "75013",
@@ -28414,10 +28414,10 @@
         "end": 124
       },
       {
-        "form": "Ferréol\n",
+        "form": "Ferréol",
         "label": "Location",
         "begin": 125,
-        "end": 133
+        "end": 132
       },
       {
         "form": "69330",
@@ -31360,10 +31360,10 @@
         "end": 97
       },
       {
-        "form": "Chopin\n",
+        "form": "Chopin",
         "label": "Location",
         "begin": 98,
-        "end": 105
+        "end": 104
       },
       {
         "form": "70000",
@@ -32530,10 +32530,10 @@
         "end": 148
       },
       {
-        "form": "Beauchesne\n",
+        "form": "Beauchesne",
         "label": "Location",
         "begin": 149,
-        "end": 160
+        "end": 159
       },
       {
         "form": "91240",

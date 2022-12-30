@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 30 Décembre 2022
+
+* Correction de formes incorrectes (terminent par \n) dans le JDF
+
 ## 27 Décembre 2022
 
 * Homogénéisation des formats : les sauts de lignes du JDR sont désormais encodées "\n" plutôt que "\\r\\n"
