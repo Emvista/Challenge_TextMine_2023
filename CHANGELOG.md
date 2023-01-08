@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 8 Janvier 2023
+
+* Ajout du JDA
+
 ## 30 Décembre 2022
 
 * Correction de formes incorrectes (qui terminent par \n) dans le JDF
