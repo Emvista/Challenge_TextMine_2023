@@ -7,6 +7,11 @@ Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans
 
 # Mise à jour
 
+**23 Janvier 2023**
+
+* Ajout du script d'évaluation
+* Ajout du JDA étiqueté
+
 **8 Janvier 2023**
 
 * Ajout du JDA

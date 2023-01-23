@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 23 Janvier 2023
+
+* Ajout du script d'évaluation
+* Ajout du JDA étiqueté
+
 ## 8 Janvier 2023
 
 * Ajout du JDA
